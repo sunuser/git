@@ -4,3 +4,5 @@ Git has a mutable index claaed stage.
 Git tracks changes of files.
 Createing a new branch is quick and simple.
 Add merge.
+
+Other user modified.
