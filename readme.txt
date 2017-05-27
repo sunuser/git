@@ -7,3 +7,4 @@ Add merge.
 Stash for issue.
 
 It's me.
+Other user modified.
